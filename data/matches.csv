@@ -1,0 +1,11 @@
+home_team,away_team,home_form,away_form,home_goals_avg,away_goals_avg,result
+Arsenal,Chelsea,85,72,2.3,1.8,2
+Liverpool,Manchester City,90,95,2.7,3.1,0
+Barcelona,Real Madrid,88,92,2.5,2.9,0
+Chelsea,Arsenal,72,85,1.8,2.3,0
+Manchester City,Liverpool,95,90,3.1,2.7,2
+Real Madrid,Barcelona,92,88,2.9,2.5,2
+Arsenal,Liverpool,85,90,2.3,2.7,1
+Chelsea,Barcelona,72,88,1.8,2.5,0
+Liverpool,Real Madrid,90,92,2.7,2.9,1
+Manchester City,Arsenal,95,85,3.1,2.3,2
